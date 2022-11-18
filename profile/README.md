@@ -7,3 +7,5 @@
 - [x] Initiation à la Programmation (Python).
 - [x] Utilisation des Périphériques et des Ports d’Entrées/Sorties.<br>
 ***
+**Les Projets efféctués durant l'Année 2022 - 2023 :**<br>
+***
