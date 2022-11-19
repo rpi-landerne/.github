@@ -1,23 +1,24 @@
 <h1 align="center">
-    <a href="https://rpi-landerne.github.io">
-        Site Internet - Atelier Raspberry PI
-    </a>
+    <a href="https://rpi-landerne.github.io">Site Internet - Atelier Raspberry PI</a>
 </h1>
 
-**Atelier Raspberry Pi depuis 2017 à la MPT de Landerneau.** <br>
-*```Découverte et configuration du nano-ordinateur Raspberry Pi :```*<br>
-- Mise en oeuvre avec une distribution GNU/Linux (Licence Libre).
-- Gestion du Système et du Réseau. 
-- Installation d’un Serveur Web. 
-- Initiation à la Programmation (Python).
-- Utilisation des Périphériques et des Ports d’Entrées/Sorties.<br>
+<h3 align="center">
+    <b>Atelier Raspberry Pi depuis 2017 à la Maison Pour Tous de Landerneau</b>
+</h3>
 
-***
+<hr>
 
-<details>
+<details open>
     <summary>
-        <b>LES PROJETS EFFECTUÉS EN 2022 - 2023 :</b>
+        <h3>BRÈVE PRÉSENTATION DE L'ATELIER :</h3>
     </summary>
+    <ul>
+        <li>Mise en oeuvre avec une distribution GNU/Linux (Licence Libre).</li>
+        <li>Gestion du Système et du Réseau.</li>
+        <li>Installation d’un Serveur Web.</li>
+        <li>Initiation à la Programmation (Python).</li>
+        <li>Utilisation des Périphériques et des Ports d’Entrées/Sorties.</li>
+   </ul>
 </details>
 
-***
+<hr>
