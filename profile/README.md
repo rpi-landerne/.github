@@ -1,9 +1,9 @@
-<h1 align="center">
-    <a href="https://rpi-landerne.github.io">Site Internet - Atelier Raspberry PI</a>
+<h2 align="center">
+    Atelier Raspberry Pi depuis 2017 à la Maison Pour Tous de Landerneau
 </h1>
 
-<h3 align="center">
-    <b>Atelier Raspberry Pi depuis 2017 à la Maison Pour Tous de Landerneau</b>
+<h3 align="left">
+    <a href="https://rpi-landerne.github.io">Site Github Page - Atelier Raspberry PI Landerneau</a>
 </h3>
 
 <hr>
